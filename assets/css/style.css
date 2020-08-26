@@ -516,6 +516,10 @@ section {
   padding-left: 20px;
 }
 
+.resume .resume-item p{
+  text-align: justify;
+}
+
 .resume .resume-item ul li {
   padding-bottom: 10px;
 }
