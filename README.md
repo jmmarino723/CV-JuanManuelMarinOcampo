@@ -1,1 +1,2 @@
-# CV-Template1
+# CV-Juan Manuel Marin Ocampo
+Mechatronich Engineer
